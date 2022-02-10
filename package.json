@@ -15,7 +15,7 @@
     "core-js": "^3.6.4",
     "dayjs": "^1.8.23",
     "express": "^4.17.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.11",
     "vue-axios": "^2.1.5",
